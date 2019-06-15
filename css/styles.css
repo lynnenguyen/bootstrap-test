@@ -36,4 +36,9 @@ body {
 
 .navbar-dark {
 	background-color: #512DA8
-} 
+}
+
+.table-borderless td,
+.table-borderless th {
+    border: 0;
+}
